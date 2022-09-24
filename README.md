@@ -1,0 +1,2 @@
+# AppCakeAssessment
+News Portal
